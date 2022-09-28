@@ -11,13 +11,13 @@
 body {
   background: #585c68;
   font-size: 14px;
-  line-height: 22px;
+  line-height: 20px;
   color: #555555;
 }
 
 .bold {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 18px;
   text-transform: uppercase;
 }
 
@@ -31,7 +31,7 @@ body {
   height: auto;
   display: flex;
   margin: 50px auto;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .cv .cv_esquerda {
@@ -149,7 +149,7 @@ body {
 }
 
 .cv .cv_direita ul li .dado {
-  font-size: 19px;
+  font-size: 18px;
   font-weight: 500;
   margin-bottom: 15px;
 }
@@ -180,10 +180,6 @@ body {
   width: 2px;
   height: 150px;
   background: #03179a;
-}
-
-.cv .cv_direita ul li i {
-  font-size: 30px;
 }
 
 .cv .cv_direita ul li:before {
